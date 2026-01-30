@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kragdom also know as Gustavo
+- 👋 Hi, I’m @Kragdom also known as Gustavo
 - 👀 I’m interested in CS and Game Development
 - 🌱 I’m currently learning computer vision and data analysis
 - 💞️ I’m looking to collaborate on Game development, Web development and App development
